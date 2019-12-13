@@ -1,0 +1,5 @@
+Environment,Score,Confidence (%),Note,,,
+Silent room,3926,15.88,Correct,,,
+Mixed with disco,5177,21.55,Correct,,,
+Running car,553,5.92,"False, at rank 6, scored 31.62% of top result’s",,,
+Restaurant,369,4.25,"False, at rank 7, scored 53.95% of top result’s",,,
